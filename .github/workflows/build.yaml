@@ -1,4 +1,4 @@
-name: Master CI/CD
+name: OKE-OIDC
 on:
   push:
     branches:
